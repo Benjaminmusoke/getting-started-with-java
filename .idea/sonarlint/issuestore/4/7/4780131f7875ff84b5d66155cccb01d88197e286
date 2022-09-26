@@ -1,0 +1,25 @@
+
+V
+java:S1854"ARemove this useless assignment to local variable "localDateTime".(‚Ã¥w
+S
+java:S1854"=Remove this useless assignment to local variable "localDate".(«¿ëÄ
+K
+java:S1854"5Remove this useless assignment to local variable "s".(â˜Ê”
+V
+java:S1854
+";Remove this useless assignment to local variable "dateSql".(ÛÔ–›ÿÿÿÿÿ
+S
+java:S1854	"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿ
+D
+java:S1481	")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿ
+G
+java:S1481
+",Remove this unused "dateSql" local variable.(ÛÔ–›ÿÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(â˜Ê”
+<
+java:S1481"&Remove this unused "s" local variable.(â˜Ê”
+D
+java:S1481".Remove this unused "localDate" local variable.(«¿ëÄ
+G
+java:S1481"2Remove this unused "localDateTime" local variable.(‚Ã¥w
