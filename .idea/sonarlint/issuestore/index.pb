@@ -35,3 +35,9 @@ b
 .learning-java/src/com/kibben/IfStatements.java,e\a\ea02b6505633967f969f21b2c9fa9e76b319a467
 a
 1learning-java/src/com/kibben/TernaryOperator.java,b\5\b5aac8c3f5243dc2dedd59f8c95671751a2669f9
+b
+2learning-java/src/com/kibben/SwitchStatements.java,f\b\fb5baef5699ee6c6865b02bbad44e6e4b3d2cf4f
+c
+3learning-java/src/com/kibben/WorkingWithArrays.java,5\0\505457eac80b147bc28f709ad5dff0686faa3f80
+b
+2learning-java/src/com/kibben/ArraysAndIndexes.java,5\7\57b9d772b7e5f3dd9fd826f70096d8e36a530d2a
