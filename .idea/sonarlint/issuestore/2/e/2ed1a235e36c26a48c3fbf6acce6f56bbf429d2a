@@ -1,0 +1,16 @@
+
+½
+java:S1598"ŸThis file "Main.java" should be located in "com\kibben" directory, not in "C:\Users\kibben\Amigoscode-courses\getting-started-with-java\learning-java\src\com".(ŸÃàŠ8è¹¾÷¶0
+T
+java:S1854"9Remove this useless assignment to local variable "brand".(ŸÙî…şÿÿÿÿ
+U
+java:S1854
+":Remove this useless assignment to local variable "number".(¼Ê€›ıÿÿÿÿ
+F
+java:S1481
+"+Remove this unused "number" local variable.(¼Ê€›ıÿÿÿÿ
+E
+java:S1481"*Remove this unused "brand" local variable.(ŸÙî…şÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷8§õö¶0
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ƒõêö¶0
