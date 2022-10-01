@@ -41,3 +41,7 @@ c
 3learning-java/src/com/kibben/WorkingWithArrays.java,5\0\505457eac80b147bc28f709ad5dff0686faa3f80
 b
 2learning-java/src/com/kibben/ArraysAndIndexes.java,5\7\57b9d772b7e5f3dd9fd826f70096d8e36a530d2a
+]
+-learning-java/src/com/kibben/DoWhileLoop.java,7\d\7db9e1eba90db651194f7a0f41ade8bc7f2e8a12
+^
+.learning-java/src/com/kibben/ScannerClass.java,8\8\88bd0ac22ab3dc511db649741522dc332d6eb22a
